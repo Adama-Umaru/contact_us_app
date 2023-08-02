@@ -20,7 +20,7 @@
     border: 1.5px solid #ccc;
     border-radius:15px 0px 0px 15px;
     /* box-shadow: 5 5 20px rgba(126, 108, 230, 0.1); */
-    box-shadow: 10px 10px 5px 12px rgb(19, 18, 18); 
+    box-shadow: 10px 10px 5px 12px rgb(224, 224, 241); 
 }
 
 .form-container h1 {
@@ -57,7 +57,7 @@
     border-radius: 0px 15px 15px 0px;
     background-color: #007bff;
     color: white;
-    box-shadow: 10px 10px 10px 10px rgb(19, 18, 18); 
+    box-shadow: 10px 10px 10px 10px rgb(131, 112, 240); 
 }
 
 .contact-info h2 {
